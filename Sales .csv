@@ -1,0 +1,819 @@
+Market,Product ID,Transit  Cost,Order Priority
+USCA,TEC-PH-5816,40.77,High
+Asia Pacific,FUR-CH-5379,923.63,Critical
+Asia Pacific,TEC-PH-5356,915.49,Medium
+Europe,TEC-PH-5267,910.16,Medium
+Africa,TEC-CO-6011,903.04,Critical
+Asia Pacific,TEC-PH-5842,897.35,Critical
+Asia Pacific,FUR-CH-5378,894.77,Critical
+Asia Pacific,FUR-TA-3764,878.38,High
+USCA,FUR-BO-5957,25.27,High
+USCA,FUR-CH-4421,11.13,High
+USCA,OFF-AR-5309,4.29,High
+Asia Pacific,FUR-TA-3420,835.57,High
+Asia Pacific,TEC-PH-3807,832.41,Critical
+LATAM,FUR-CH-4530,810.25,Critical
+Asia Pacific,OFF-AP-4959,804.54,Critical
+Europe,OFF-AP-3575,801.66,Critical
+USCA,OFF-ST-3078,1.97,Low
+Europe,OFF-AP-4743,778.32,Low
+Asia Pacific,TEC-CO-3597,766.93,Critical
+Africa,OFF-AP-4967,763.38,High
+Europe,FUR-TA-4644,759.47,Critical
+USCA,OFF-ST-3744,1.28,High
+Asia Pacific,FUR-CH-5774,752.47,Critical
+Europe,OFF-AP-4960,730.91,High
+LATAM,TEC-PH-5268,728.968,Critical
+LATAM,FUR-TA-4643,728.389,Critical
+Asia Pacific,FUR-TA-5060,725.57,Critical
+Europe,OFF-AP-4743,725.34,Critical
+USCA,OFF-FA-6129,55.2,Critical
+Asia Pacific,FUR-CH-5443,704.08,Critical
+LATAM,TEC-PH-5841,704.056,Critical
+Europe,TEC-MA-5503,699.55,Critical
+USCA,TEC-PH-4389,45.74,Medium
+Asia Pacific,OFF-AP-3579,689.8,Critical
+USCA,OFF-ST-4291,26.7,Medium
+Africa,TEC-PH-3148,678.15,High
+USCA,FUR-CH-4840,11.69,Medium
+USCA,TEC-AC-6340,8.22,High
+Europe,TEC-CO-3598,668.96,High
+Asia Pacific,TEC-PH-5356,665.27,Medium
+Asia Pacific,TEC-PH-5268,660.87,High
+Asia Pacific,TEC-PH-5269,658.69,High
+Asia Pacific,FUR-BO-5951,658.35,Medium
+Europe,TEC-PH-5267,656.73,High
+Europe,OFF-AP-3874,655.91,Critical
+USCA,FUR-FU-4072,5.73,Medium
+Europe,FUR-CH-5441,652.98,Critical
+Asia Pacific,FUR-CH-5380,644.75,High
+Asia Pacific,TEC-MA-5007,637.86,Critical
+LATAM,FUR-CH-4531,634.529,High
+USCA,OFF-BI-4372,2.84,High
+Asia Pacific,TEC-CO-3678,630.97,Critical
+USCA,OFF-LA-3231,1.3,High
+Asia Pacific,FUR-BO-5762,627.27,Critical
+Africa,TEC-PH-5269,627.17,High
+Asia Pacific,TEC-CO-4590,625.77,Critical
+USCA,OFF-BI-2937,1.2,Critical
+Asia Pacific,FUR-TA-3766,616.27,Critical
+Asia Pacific,OFF-AP-3577,614.34,High
+USCA,OFF-PA-4014,1.15,Medium
+Asia Pacific,FUR-BO-5760,609.24,High
+USCA,OFF-AR-3276,1.13,Medium
+Europe,TEC-PH-5839,604.4,Medium
+Europe,TEC-PH-3130,600.21,Critical
+Asia Pacific,FUR-CH-5774,595.5,High
+USCA,TEC-MA-3788,160.19,High
+Europe,FUR-BO-5760,593.91,High
+Asia Pacific,FUR-TA-3779,592.77,Critical
+LATAM,TEC-PH-5839,592.726,Critical
+Europe,FUR-TA-3771,590.56,Critical
+Asia Pacific,FUR-CH-4530,589.36,High
+LATAM,OFF-AP-4497,589.293,Medium
+Africa,FUR-CH-4530,588.13,High
+Asia Pacific,FUR-TA-3422,586.57,High
+Europe,TEC-PH-5355,585.25,High
+Asia Pacific,TEC-PH-3147,581.88,Critical
+USCA,TEC-MA-3329,103.62,Medium
+Europe,TEC-CO-3599,580.98,Critical
+Asia Pacific,TEC-CO-6010,576.71,Medium
+Asia Pacific,FUR-CH-5380,573.27,Critical
+Europe,FUR-CH-4654,572.95,High
+Africa,TEC-CO-3710,568.45,Medium
+USCA,FUR-BO-3176,43.01,Critical
+USCA,OFF-BI-3324,23.88,High
+Europe,TEC-PH-5268,564.25,Low
+Asia Pacific,OFF-AP-4501,562.14,Critical
+Africa,OFF-AP-4745,556.45,Medium
+Asia Pacific,TEC-CO-3611,555.77,High
+Asia Pacific,FUR-BO-4849,553.31,Medium
+Asia Pacific,TEC-CO-3678,550.74,High
+Asia Pacific,TEC-PH-5356,548.4,Critical
+USCA,FUR-TA-5066,12.65,Medium
+Europe,OFF-AP-4508,546.9,Critical
+USCA,OFF-BI-3308,5.35,High
+Asia Pacific,FUR-CH-5443,546.49,High
+Asia Pacific,FUR-TA-3422,545.89,High
+Europe,FUR-BO-4849,541.59,High
+Asia Pacific,FUR-CH-5774,541.57,Medium
+Europe,TEC-MA-5572,540.77,Critical
+Europe,OFF-AP-4503,539.94,High
+Africa,TEC-PH-5268,533.99,Low
+Asia Pacific,TEC-PH-3806,531.28,Low
+Europe,TEC-PH-5840,531.09,High
+LATAM,TEC-PH-5839,530.486,Medium
+Europe,TEC-CO-5999,527.87,Critical
+Europe,TEC-PH-3807,527.85,High
+USCA,OFF-PA-6512,4.36,Medium
+LATAM,FUR-BO-3891,523.466,High
+Asia Pacific,OFF-AP-3575,522.79,High
+Europe,FUR-CH-5442,520.89,High
+USCA,OFF-ST-4516,3.81,Medium
+Europe,TEC-PH-3149,516.63,High
+Europe,FUR-BO-5948,515.24,Critical
+Asia Pacific,TEC-CO-6012,511.47,Critical
+Asia Pacific,OFF-AP-4738,510.72,High
+USCA,OFF-PA-6557,1.99,Medium
+Europe,TEC-CO-4593,506.89,High
+USCA,OFF-BI-3185,1.56,High
+Europe,FUR-CH-5774,506.27,Medium
+Asia Pacific,FUR-BO-3639,504.56,Critical
+Asia Pacific,TEC-CO-4790,499.62,High
+USCA,FUR-TA-4622,524.76,Low
+USCA,OFF-BI-4340,82.67,Critical
+Asia Pacific,TEC-CO-3709,498.62,Critical
+Europe,TEC-CO-5998,498.52,Critical
+Asia Pacific,TEC-PH-3806,498.38,Critical
+USCA,FUR-CH-4613,47.81,Low
+USCA,OFF-AP-4221,13.75,Medium
+USCA,TEC-AC-5858,11.57,Low
+LATAM,TEC-CO-3587,493.409,Critical
+Asia Pacific,TEC-CO-4577,493.2,Critical
+Asia Pacific,TEC-AC-3405,492.79,Critical
+Asia Pacific,FUR-BO-5761,492.28,High
+Asia Pacific,TEC-PH-5268,491.91,High
+USCA,OFF-PA-6214,7.97,High
+Asia Pacific,FUR-BO-5787,487.86,High
+LATAM,OFF-AP-4736,487.476,Medium
+Asia Pacific,TEC-MA-6150,487.32,Critical
+USCA,OFF-FA-6129,6.61,High
+USCA,OFF-PA-6430,6.53,Critical
+LATAM,TEC-AC-5223,483.257,High
+Europe,TEC-CO-4590,483.04,High
+Africa,TEC-PH-5839,481.04,High
+USCA,OFF-PA-6430,6.22,Critical
+Asia Pacific,OFF-AP-4960,479.96,High
+Asia Pacific,TEC-PH-3149,479.94,High
+Asia Pacific,TEC-CO-3597,479.67,Critical
+USCA,TEC-AC-5109,5.44,Medium
+Asia Pacific,FUR-BO-5763,475.34,High
+Asia Pacific,TEC-AC-3403,474.44,High
+Europe,OFF-AP-4745,473.27,High
+Europe,FUR-BO-3624,472,Critical
+Europe,TEC-CO-4789,471.92,Critical
+USCA,FUR-FU-4762,3.15,Medium
+Asia Pacific,TEC-PH-5268,470.29,High
+Europe,TEC-PH-3806,469.29,High
+USCA,OFF-BI-4819,2.72,Medium
+LATAM,FUR-TA-5064,466.703,High
+USCA,OFF-SU-2972,2.16,Medium
+LATAM,OFF-AP-4745,465.918,High
+Asia Pacific,OFF-AP-4502,465.63,High
+Europe,OFF-AP-4507,465.02,Medium
+Asia Pacific,TEC-PH-3806,463.98,Medium
+Asia Pacific,FUR-TA-5065,458.97,Critical
+Asia Pacific,OFF-AP-4745,458.54,High
+USCA,OFF-PA-6420,1.69,Medium
+Asia Pacific,FUR-BO-5787,456.32,High
+Asia Pacific,FUR-CH-4532,455.71,High
+Europe,TEC-PH-3805,454.81,Medium
+Asia Pacific,TEC-PH-5840,452.6,High
+Asia Pacific,FUR-BO-3639,452.28,Medium
+USCA,OFF-BI-2911,1.67,Critical
+Asia Pacific,TEC-PH-5840,451.03,High
+USCA,TEC-AC-5744,1.31,Critical
+Asia Pacific,FUR-TA-3420,449.18,High
+Europe,FUR-BO-3639,448.91,High
+LATAM,TEC-PH-5355,447.657,High
+Europe,FUR-CH-4654,446.33,High
+Europe,TEC-AC-4185,443.92,Critical
+USCA,OFF-PA-6596,1.23,High
+Europe,OFF-AP-4738,443.55,Critical
+Europe,TEC-MA-4205,442.49,Low
+Europe,FUR-TA-4642,440.25,Critical
+USCA,OFF-PA-3114,1.21,High
+Asia Pacific,OFF-AP-4502,439.65,Medium
+Europe,TEC-PH-3148,439.41,Medium
+Asia Pacific,FUR-TA-5054,439.03,Critical
+Asia Pacific,OFF-AP-3577,438.89,High
+Asia Pacific,FUR-TA-5072,437.85,Critical
+Europe,TEC-PH-5354,433.41,Medium
+Asia Pacific,FUR-TA-4706,432.57,High
+Asia Pacific,FUR-CH-4654,432.15,High
+Europe,FUR-TA-3344,432.13,Medium
+USCA,FUR-TA-5421,188.95,Critical
+Asia Pacific,OFF-AP-3574,430.04,Critical
+USCA,FUR-FU-3936,79.52,Critical
+Europe,OFF-AP-3581,428.83,Critical
+USCA,FUR-TA-4943,68.01,Critical
+Asia Pacific,OFF-AP-4966,427.46,Medium
+Europe,OFF-ST-6049,427.24,Critical
+Asia Pacific,TEC-CO-5991,427.1,Critical
+Asia Pacific,OFF-AP-4508,426.09,Medium
+USCA,OFF-BI-4338,57.49,Medium
+Asia Pacific,OFF-AP-3580,424.81,High
+Africa,OFF-ST-6047,422.25,Critical
+Europe,FUR-BO-5760,419.38,Low
+USCA,OFF-SU-5635,43.08,Critical
+USCA,FUR-FU-4756,36.52,Medium
+LATAM,TEC-PH-5839,417.99,High
+USCA,TEC-AC-6351,11.15,Medium
+Asia Pacific,TEC-CO-3608,416.74,High
+Europe,OFF-AP-4507,416.33,High
+USCA,OFF-ST-4257,11.13,High
+Asia Pacific,TEC-MA-4210,415.01,Critical
+Asia Pacific,OFF-ST-4266,413.95,Critical
+Asia Pacific,TEC-PH-5841,413.8,Medium
+Europe,FUR-BO-3903,411.64,Critical
+Asia Pacific,FUR-BO-4862,411.06,Critical
+Asia Pacific,FUR-BO-3640,410.88,Critical
+Asia Pacific,TEC-PH-5356,410.22,High
+Europe,FUR-BO-5950,410.05,Medium
+USCA,FUR-FU-4022,8.98,Critical
+Asia Pacific,TEC-CO-3611,406.53,High
+Asia Pacific,TEC-PH-3806,404.97,Medium
+Asia Pacific,TEC-PH-5269,404.08,High
+Asia Pacific,TEC-PH-5356,403.97,High
+Asia Pacific,FUR-CH-4531,403.46,Critical
+Asia Pacific,OFF-AP-3571,403.26,High
+Asia Pacific,FUR-CH-5378,403.15,Critical
+Europe,FUR-BO-5760,401.25,Critical
+Europe,FUR-CH-4530,401.13,High
+USCA,OFF-SU-3839,8.72,Medium
+USCA,FUR-CH-5429,6.19,Medium
+Africa,OFF-AP-4732,400.03,Critical
+Africa,TEC-PH-5355,399.96,Critical
+LATAM,OFF-AP-4962,399.849,Medium
+USCA,OFF-PA-6415,5.97,Critical
+Europe,OFF-AP-4743,398.5,Medium
+USCA,OFF-PA-6577,4.93,Medium
+USCA,OFF-FA-5459,4.89,Critical
+USCA,OFF-PA-3115,2.73,Critical
+Asia Pacific,FUR-TA-3358,393.62,High
+Asia Pacific,FUR-BO-5967,393.58,High
+Europe,FUR-BO-3626,393.46,High
+Europe,TEC-MA-5007,390.2,Critical
+Europe,FUR-TA-3345,390.09,High
+Asia Pacific,TEC-CO-4593,386.38,Medium
+USCA,OFF-AR-5327,1.88,Medium
+LATAM,TEC-PH-3149,386.003,High
+Africa,FUR-BO-5951,384.41,Critical
+Asia Pacific,TEC-CO-6010,383.68,Critical
+USCA,OFF-AP-4739,1.64,Critical
+Africa,TEC-PH-5354,383.01,High
+Asia Pacific,FUR-TA-4645,382.77,High
+Asia Pacific,FUR-TA-5065,382.1,Critical
+LATAM,FUR-CH-5776,381.219,Critical
+LATAM,OFF-AP-4505,381.14,Critical
+USCA,OFF-LA-5591,1.51,Medium
+USCA,OFF-AR-5458,1.38,High
+USCA,OFF-BI-3301,1.37,Medium
+LATAM,OFF-AP-4507,378.258,High
+LATAM,TEC-PH-5354,377.704,Critical
+Asia Pacific,TEC-PH-3148,377.58,Critical
+Europe,TEC-MA-5017,377.03,Critical
+Europe,FUR-BO-3627,376.88,Critical
+Europe,TEC-PH-3807,376.58,High
+Asia Pacific,OFF-AP-4964,374.8,High
+LATAM,FUR-CH-4544,374.376,Critical
+Europe,FUR-BO-4848,372.5,High
+LATAM,TEC-CO-6010,372.318,High
+Asia Pacific,TEC-CO-3596,371.74,Critical
+Asia Pacific,TEC-CO-4591,371.51,High
+Europe,OFF-AP-3573,369.98,High
+Africa,TEC-CO-3688,369.73,Medium
+Asia Pacific,FUR-CH-4656,369.4,High
+Europe,TEC-PH-3146,369.17,Critical
+Asia Pacific,FUR-CH-4530,368.44,High
+Asia Pacific,OFF-AP-4966,367.57,Critical
+LATAM,TEC-CO-3597,367.549,High
+Europe,TEC-CO-4792,367.35,Critical
+Asia Pacific,FUR-CH-4530,366.89,Critical
+USCA,OFF-PA-6504,1.26,Medium
+Europe,TEC-CO-4571,366.58,High
+LATAM,TEC-PH-5839,365.902,High
+LATAM,TEC-PH-3806,365.652,High
+LATAM,TEC-PH-3148,365.2,Medium
+USCA,OFF-BI-4343,209.3,Critical
+USCA,FUR-CH-5430,64.56,Medium
+USCA,FUR-TA-3427,62.17,Medium
+Asia Pacific,TEC-PH-5815,363.73,High
+USCA,FUR-BO-5529,48.18,High
+Africa,TEC-PH-3805,363.16,Medium
+LATAM,TEC-PH-5268,363.1,High
+Asia Pacific,OFF-AP-4961,360.04,High
+Africa,OFF-AP-4733,359.58,Critical
+Europe,FUR-BO-5950,359.28,High
+Asia Pacific,FUR-BO-5762,359.27,Medium
+Asia Pacific,TEC-PH-5356,359.09,Medium
+Europe,OFF-ST-5691,358.96,Critical
+Asia Pacific,FUR-CH-5412,358.85,Critical
+Asia Pacific,OFF-AP-3578,358.51,Medium
+LATAM,TEC-PH-5839,358.176,Critical
+Europe,TEC-PH-5268,357.89,Medium
+LATAM,FUR-TA-3763,357.789,Low
+Asia Pacific,FUR-BO-5762,357.21,Critical
+USCA,TEC-AC-5138,16.53,Critical
+Asia Pacific,FUR-TA-5053,356.84,Critical
+USCA,OFF-BI-5638,15.46,High
+Africa,TEC-PH-3148,355.92,Medium
+USCA,TEC-AC-5094,13.56,Critical
+Europe,FUR-CH-4655,355.06,High
+Asia Pacific,FUR-BO-3648,354.47,Critical
+LATAM,TEC-CO-4577,354.423,Critical
+Asia Pacific,TEC-PH-3149,353.85,Medium
+Europe,FUR-BO-5969,353.57,High
+Asia Pacific,OFF-ST-6046,353.42,Critical
+Europe,OFF-AP-4502,353.04,Medium
+Europe,TEC-CO-3595,352.79,Critical
+Asia Pacific,FUR-BO-3627,352.64,Low
+Europe,OFF-ST-5702,352.52,High
+Asia Pacific,FUR-BO-3639,351.08,Medium
+LATAM,TEC-PH-5841,351.067,Critical
+USCA,OFF-ST-4516,12.42,High
+Europe,TEC-CO-6012,350.68,High
+Asia Pacific,FUR-CH-5380,350.68,Critical
+Asia Pacific,TEC-CO-4568,350.31,High
+USCA,FUR-FU-4050,5.83,Critical
+Asia Pacific,TEC-CO-4588,349.88,Critical
+Africa,FUR-BO-4850,349.87,High
+USCA,FUR-FU-3844,5.5,Medium
+Asia Pacific,TEC-CO-4578,348.48,Critical
+USCA,OFF-AR-5285,4.99,Medium
+Asia Pacific,OFF-AP-4504,348.08,Medium
+LATAM,FUR-BO-5951,347.815,High
+Asia Pacific,FUR-BO-5948,346.6,Medium
+Europe,OFF-ST-5700,345.81,High
+Europe,TEC-PH-5355,345.78,Critical
+USCA,OFF-FA-6129,4.46,High
+Europe,OFF-ST-6261,344.98,Critical
+USCA,OFF-AP-3367,2.16,High
+Europe,FUR-CH-5456,344.5,Critical
+USCA,OFF-EN-2848,2.15,Medium
+LATAM,OFF-AP-4960,343.809,High
+USCA,OFF-BI-6094,2.02,High
+USCA,OFF-ST-3078,1.79,Medium
+Asia Pacific,TEC-MA-5005,340.09,Critical
+Asia Pacific,FUR-TA-3359,339.47,High
+Asia Pacific,TEC-AC-3402,339.06,High
+USCA,OFF-LA-6021,1.46,High
+Europe,OFF-ST-6049,338.33,Critical
+Europe,FUR-TA-3343,338.1,Medium
+Europe,TEC-CO-4590,337.93,High
+USCA,OFF-ST-6158,1.42,Medium
+Europe,OFF-AP-4497,337.07,High
+Africa,TEC-PH-5840,336.65,Medium
+Asia Pacific,TEC-CO-4568,336.02,Medium
+Europe,OFF-AP-3867,335.95,High
+USCA,OFF-LA-3224,1.35,Medium
+USCA,OFF-BI-3473,1.31,Critical
+Europe,FUR-BO-5971,334.23,High
+USCA,OFF-BI-3473,1.3,Medium
+LATAM,FUR-CH-4530,333.148,High
+Asia Pacific,TEC-PH-3148,333.1,Medium
+Asia Pacific,FUR-TA-5059,333.06,Medium
+Europe,TEC-CO-3595,333.02,Critical
+Europe,TEC-MA-5502,332.96,Critical
+Asia Pacific,TEC-CO-3706,332.2,Critical
+Asia Pacific,TEC-CO-3609,332.14,Low
+Asia Pacific,OFF-ST-6049,332.13,High
+Europe,FUR-BO-5798,330.51,Critical
+Asia Pacific,FUR-CH-5447,330.01,Critical
+Europe,FUR-BO-3639,329.73,High
+LATAM,TEC-CO-6010,329.577,High
+LATAM,FUR-CH-5379,328.659,Critical
+Asia Pacific,FUR-BO-3641,328.35,Critical
+Africa,OFF-AP-4956,327.94,Critical
+Asia Pacific,FUR-CH-5378,327.81,High
+Asia Pacific,FUR-BO-5763,327.55,Medium
+Europe,TEC-MA-4206,327.11,Critical
+Europe,OFF-ST-4057,326.35,Critical
+Asia Pacific,TEC-PH-3148,326.32,High
+Asia Pacific,TEC-PH-5267,326.27,Medium
+Europe,TEC-CO-4792,326.27,High
+Europe,TEC-PH-3805,326.05,High
+Asia Pacific,OFF-ST-5700,325.93,Medium
+Asia Pacific,FUR-TA-4711,325.54,Medium
+Europe,TEC-CO-4592,325.45,Critical
+Europe,FUR-BO-4848,325.32,Critical
+Europe,FUR-TA-5059,325.04,Critical
+Europe,TEC-MA-5511,324.98,Critical
+USCA,OFF-PA-6535,1.24,Medium
+Europe,FUR-CH-4654,324.09,Low
+Asia Pacific,TEC-PH-5268,323.75,Medium
+Europe,TEC-PH-3805,321.54,High
+LATAM,FUR-BO-5762,321.421,High
+Asia Pacific,TEC-PH-5263,321.36,High
+Africa,OFF-ST-5708,321.23,Critical
+LATAM,OFF-AP-3872,320.956,High
+Asia Pacific,FUR-CH-5378,320.92,Critical
+LATAM,FUR-TA-3764,320.376,Low
+LATAM,OFF-ST-6046,320.29,Medium
+Asia Pacific,FUR-BO-5786,320.28,High
+Asia Pacific,FUR-TA-3344,320.27,Medium
+Asia Pacific,TEC-PH-5269,319.58,Critical
+Asia Pacific,TEC-CO-4590,319.53,High
+USCA,OFF-BI-3729,1.22,Medium
+LATAM,FUR-CH-5442,318.169,Low
+LATAM,FUR-BO-5968,318.08,High
+Asia Pacific,TEC-CO-4578,317.81,Critical
+LATAM,TEC-PH-3806,317.165,High
+LATAM,TEC-PH-3148,316.764,Low
+Africa,TEC-AC-5224,316.66,Critical
+Asia Pacific,TEC-CO-3688,316.59,High
+USCA,OFF-AR-3285,1.16,Medium
+Africa,FUR-TA-3442,315.57,Critical
+Europe,TEC-CO-3709,315.29,Medium
+Africa,TEC-MA-5502,314.81,High
+Asia Pacific,FUR-CH-5411,314.7,High
+USCA,OFF-BI-4884,1.11,High
+USCA,OFF-BI-4345,498.7,Medium
+Asia Pacific,OFF-AP-3873,314.15,Medium
+Asia Pacific,OFF-AP-3573,313.71,Critical
+Asia Pacific,TEC-CO-3683,313.66,Critical
+Europe,TEC-PH-5355,313.58,High
+Asia Pacific,FUR-CH-4531,313.52,Critical
+Asia Pacific,FUR-CH-5380,313.45,High
+Africa,TEC-PH-3805,313.31,Medium
+USCA,TEC-PH-5089,137.41,High
+USCA,FUR-FU-2871,83.56,Medium
+Asia Pacific,OFF-AP-3580,311.14,High
+LATAM,OFF-AP-4505,310.748,High
+Europe,FUR-TA-5064,310.17,High
+LATAM,TEC-PH-3806,309.748,High
+USCA,OFF-BI-4827,63.82,Medium
+USCA,TEC-PH-2879,48.59,Medium
+Asia Pacific,FUR-BO-3626,309.11,Medium
+Europe,TEC-AC-5136,309,High
+LATAM,FUR-CH-5773,308.658,High
+Asia Pacific,FUR-BO-5761,307.98,High
+USCA,FUR-TA-3412,22.1,Medium
+Asia Pacific,OFF-AP-4966,307.83,High
+Europe,OFF-AP-4743,307.43,High
+Asia Pacific,FUR-BO-3642,307.25,Critical
+Asia Pacific,FUR-BO-3641,305.98,Critical
+USCA,TEC-MA-3700,18.31,Medium
+Asia Pacific,TEC-CO-3596,305.27,High
+Europe,OFF-AP-4732,305.25,Critical
+Europe,TEC-PH-3148,305.2,Medium
+Europe,TEC-PH-5354,305.16,Critical
+Asia Pacific,TEC-PH-3802,304.95,Critical
+Europe,TEC-AC-5226,304.75,Medium
+LATAM,FUR-BO-4861,304.53,Critical
+Africa,TEC-CO-6009,304.5,Critical
+Africa,FUR-TA-4712,304.36,Critical
+Asia Pacific,FUR-BO-3642,304.16,Critical
+LATAM,FUR-TA-3760,303.649,High
+LATAM,OFF-AP-3872,303.631,Critical
+Europe,FUR-BO-5788,303.59,High
+Asia Pacific,TEC-CO-3597,303.45,High
+Asia Pacific,TEC-PH-5839,302.99,Medium
+Asia Pacific,TEC-CO-3678,302.82,High
+Asia Pacific,TEC-PH-5354,302.61,Medium
+Europe,FUR-BO-4862,302.55,Medium
+LATAM,OFF-AP-4503,302.477,High
+Europe,TEC-CO-5997,302.14,High
+Asia Pacific,TEC-PH-5356,302.01,High
+Europe,FUR-CH-4530,301.73,Medium
+Europe,TEC-MA-6138,301.73,High
+Asia Pacific,OFF-AP-4745,301.26,High
+Asia Pacific,TEC-CO-6009,300.6,Medium
+Asia Pacific,OFF-AP-4505,300.5,High
+Europe,TEC-PH-3148,299.4,Medium
+Asia Pacific,FUR-CH-4532,299.12,High
+Asia Pacific,TEC-PH-5268,298.83,High
+Europe,OFF-AP-4745,298.77,High
+Asia Pacific,FUR-BO-4861,298.63,Medium
+Asia Pacific,FUR-BO-3904,298.44,Medium
+Asia Pacific,FUR-TA-5057,297.81,Low
+Asia Pacific,OFF-AP-4964,297.2,Medium
+Europe,OFF-AP-3576,296.98,High
+Asia Pacific,TEC-PH-5813,296.68,Critical
+USCA,TEC-PH-5625,16.71,Low
+Africa,OFF-ST-6033,296.08,Critical
+Asia Pacific,FUR-BO-5971,296.01,Critical
+Europe,OFF-AP-3874,295.74,Medium
+LATAM,TEC-PH-3806,294.971,High
+Asia Pacific,TEC-AC-4186,294.73,Medium
+LATAM,TEC-PH-5355,294.566,Critical
+Asia Pacific,FUR-BO-5951,294.55,Medium
+USCA,OFF-ST-4281,14.93,Medium
+USCA,TEC-AC-6076,12.35,Low
+Asia Pacific,TEC-PH-5841,293.78,Medium
+Europe,OFF-AP-3865,293.46,Critical
+Asia Pacific,OFF-AP-3579,293.12,Low
+Africa,TEC-AC-5224,293.07,High
+Europe,FUR-BO-3903,291.93,High
+USCA,OFF-AR-6111,5.81,High
+LATAM,TEC-CO-4592,291.631,High
+Asia Pacific,FUR-CH-5775,291.06,Medium
+Asia Pacific,TEC-CO-3707,290.69,High
+LATAM,TEC-PH-5355,290.523,Critical
+USCA,OFF-ST-4457,5.8,Medium
+LATAM,FUR-CH-5443,289.515,High
+Asia Pacific,FUR-CH-5441,289.32,High
+Asia Pacific,TEC-PH-5840,289.17,Medium
+Asia Pacific,FUR-CH-5378,288.98,Medium
+Asia Pacific,OFF-ST-5691,288.75,Critical
+Asia Pacific,TEC-CO-3598,288.63,High
+Europe,TEC-MA-6138,288.47,High
+LATAM,FUR-CH-4656,288.103,High
+USCA,TEC-AC-4936,5.7,High
+Asia Pacific,FUR-CH-4531,287.24,High
+Europe,OFF-AP-4745,286.87,Medium
+Asia Pacific,TEC-MA-5014,286.74,High
+Asia Pacific,TEC-PH-5336,286.67,Critical
+Asia Pacific,FUR-BO-3891,286.57,Medium
+Asia Pacific,OFF-AP-4958,286.53,High
+LATAM,OFF-AP-3570,286.463,Critical
+USCA,FUR-FU-6235,4.42,Medium
+LATAM,FUR-TA-5062,286.366,Critical
+USCA,OFF-ST-3360,4.17,Medium
+Africa,TEC-MA-6148,286.2,Critical
+Europe,TEC-CO-3686,286.19,Critical
+Asia Pacific,FUR-CH-4545,286.01,Critical
+Asia Pacific,TEC-PH-5268,285.83,Critical
+Asia Pacific,FUR-BO-3903,285.65,High
+Asia Pacific,OFF-AP-4967,285.61,Critical
+Europe,TEC-CO-4765,285.12,High
+Asia Pacific,TEC-PH-5839,284.81,High
+Africa,OFF-AP-4731,284.7,Critical
+Europe,OFF-AP-4738,284.51,Medium
+Europe,FUR-BO-5786,284.19,High
+LATAM,FUR-TA-3420,283.928,Medium
+LATAM,TEC-PH-3148,283.685,Medium
+Asia Pacific,FUR-TA-5071,283.36,Low
+Europe,FUR-BO-3640,283.25,Critical
+Asia Pacific,TEC-CO-4790,283.09,Medium
+Europe,FUR-BO-5778,282.58,Critical
+USCA,OFF-BI-5614,3.26,Low
+Europe,FUR-TA-4646,282.09,Critical
+Europe,FUR-BO-4848,281.82,High
+LATAM,FUR-BO-5940,281.743,Critical
+Europe,TEC-AC-5896,280.54,Critical
+Asia Pacific,OFF-AP-4961,280.47,Medium
+LATAM,OFF-AP-4508,279.53,Medium
+Africa,TEC-PH-5842,279.11,High
+Europe,TEC-PH-3806,278.98,Medium
+Europe,OFF-ST-6033,278.75,High
+USCA,OFF-AR-5912,2.83,High
+Asia Pacific,TEC-MA-6142,278.34,Critical
+Asia Pacific,FUR-BO-3889,278.13,High
+LATAM,TEC-PH-5355,277.925,High
+USCA,OFF-AR-5156,2.04,Medium
+Europe,FUR-BO-5763,277.29,Medium
+USCA,OFF-ST-3078,1.94,Low
+LATAM,FUR-TA-4647,276.713,Medium
+USCA,OFF-BI-4346,1.6,Medium
+Asia Pacific,FUR-BO-4851,276.29,Medium
+USCA,OFF-BI-3308,1.59,Medium
+Asia Pacific,FUR-BO-5949,275.91,Critical
+USCA,OFF-LA-3206,1.39,Medium
+Asia Pacific,TEC-CO-4576,275.57,Medium
+Asia Pacific,TEC-MA-5548,275.52,Medium
+USCA,FUR-TA-4841,55.53,Medium
+USCA,OFF-PA-6497,34.03,High
+Europe,FUR-BO-4860,274.63,High
+Europe,OFF-AP-3577,274.58,Critical
+Europe,OFF-AP-3868,273.88,High
+USCA,FUR-CH-5428,31.15,High
+Asia Pacific,TEC-CO-4789,273.63,Critical
+Europe,TEC-CO-3681,273.57,High
+USCA,OFF-PA-6441,25.05,High
+Asia Pacific,OFF-AP-4508,271.59,Medium
+USCA,OFF-PA-6361,17.38,Medium
+USCA,TEC-AC-5097,13.93,Low
+Europe,FUR-BO-5972,271.01,Critical
+Europe,OFF-AP-4498,270.65,High
+Asia Pacific,FUR-BO-3887,270.56,High
+Europe,TEC-AC-4186,270.26,Medium
+LATAM,FUR-TA-4713,269.94,High
+Asia Pacific,OFF-AP-3575,269.89,Medium
+LATAM,FUR-BO-3892,269.764,High
+LATAM,FUR-BO-3903,269.525,Critical
+USCA,OFF-BI-4358,10.69,Low
+Europe,TEC-PH-3147,268.19,Medium
+Asia Pacific,TEC-CO-3706,268.13,Critical
+USCA,OFF-BI-6345,7.16,Medium
+Europe,FUR-BO-5942,268.04,High
+Asia Pacific,TEC-CO-3709,267.93,Medium
+LATAM,TEC-PH-5841,267.784,Low
+Africa,FUR-BO-5972,267.64,Critical
+Europe,FUR-TA-3759,266.4,High
+Europe,TEC-CO-4568,266.02,Critical
+Asia Pacific,TEC-CO-4791,266,High
+Europe,OFF-ST-6248,265.85,Critical
+Asia Pacific,OFF-AP-4958,265.46,Medium
+Asia Pacific,OFF-AP-4958,265.14,Critical
+LATAM,TEC-PH-5842,264.888,High
+LATAM,OFF-AP-4500,264.428,Medium
+Europe,TEC-MA-5016,263.82,Medium
+Europe,TEC-AC-5135,263.71,High
+USCA,OFF-AR-5289,4.12,Medium
+Europe,TEC-CO-4767,263.47,High
+Asia Pacific,FUR-CH-4530,263.01,High
+Africa,TEC-PH-3786,262.66,Critical
+Asia Pacific,TEC-CO-4765,262.52,Medium
+USCA,TEC-PH-5163,3.1,Medium
+LATAM,FUR-TA-3761,262.111,Medium
+Europe,OFF-AP-4745,262.11,High
+Asia Pacific,TEC-PH-3148,261.87,Medium
+Asia Pacific,TEC-CO-3587,261.52,High
+LATAM,FUR-BO-4849,261.262,High
+Asia Pacific,TEC-PH-5839,261.08,High
+Asia Pacific,FUR-BO-4851,260.6,Critical
+USCA,TEC-AC-6078,2.56,Medium
+Asia Pacific,TEC-PH-5842,260.29,Medium
+Europe,TEC-MA-5502,259.97,High
+USCA,OFF-LA-3327,2.36,Medium
+USCA,OFF-BI-6393,1.74,Medium
+Asia Pacific,TEC-PH-3787,259.57,Critical
+Europe,FUR-TA-5055,259.34,Critical
+LATAM,FUR-CH-5776,259.249,High
+Europe,TEC-PH-5359,259.12,Critical
+USCA,OFF-PA-3507,1.52,Medium
+LATAM,TEC-AC-5894,258.96,Medium
+LATAM,TEC-PH-3148,258.835,Medium
+USCA,TEC-AC-4945,1.34,Medium
+Asia Pacific,TEC-CO-4789,258.02,High
+Asia Pacific,FUR-CH-5442,257.63,Medium
+Asia Pacific,OFF-AP-4744,257.24,Low
+Asia Pacific,OFF-AP-4959,257.16,Medium
+Europe,TEC-PH-5248,257.16,Critical
+Asia Pacific,TEC-PH-5268,256.87,High
+Europe,FUR-BO-3639,256.7,High
+Asia Pacific,FUR-BO-3627,256.64,Medium
+Asia Pacific,TEC-AC-5896,256.26,High
+Europe,TEC-PH-3800,255.92,High
+Africa,TEC-MA-6149,255.69,Critical
+Europe,OFF-SU-3001,255.57,Critical
+Europe,FUR-BO-5760,255.56,Medium
+Asia Pacific,OFF-AP-4743,255.42,Medium
+Asia Pacific,TEC-PH-5268,255.36,Medium
+Asia Pacific,TEC-CO-5991,255.36,High
+LATAM,TEC-PH-5839,255.173,Critical
+Europe,FUR-CH-4531,254.92,High
+USCA,OFF-AR-5331,1.26,Medium
+Europe,TEC-MA-5546,254.54,High
+Europe,TEC-CO-6011,254.47,Medium
+Asia Pacific,OFF-AP-4736,254.37,High
+USCA,OFF-BI-3307,7.14,Medium
+USCA,OFF-ST-5695,6.96,Medium
+Asia Pacific,TEC-CO-3678,253.95,High
+Europe,TEC-CO-4574,253.73,Critical
+Asia Pacific,TEC-MA-4205,253.5,High
+USCA,OFF-PA-6448,2.31,Medium
+Europe,TEC-PH-5355,253.26,High
+LATAM,TEC-CO-3707,253.254,High
+USCA,FUR-FU-4070,1.18,Medium
+Europe,TEC-PH-5836,253.09,High
+Europe,OFF-ST-4267,253.03,Critical
+Europe,FUR-BO-5953,252.9,Critical
+Asia Pacific,FUR-BO-3901,252.36,Medium
+Europe,TEC-AC-3402,252.17,Medium
+USCA,TEC-AC-5140,55.01,Medium
+USCA,OFF-PA-6441,10.13,Medium
+USCA,OFF-AR-5325,8.02,Medium
+LATAM,FUR-CH-4654,251.57,Critical
+LATAM,TEC-PH-3806,251.052,High
+Asia Pacific,TEC-PH-3149,250.36,High
+Africa,FUR-TA-3342,250.06,Medium
+LATAM,OFF-AP-4736,250.029,High
+LATAM,OFF-AP-4743,249.639,High
+USCA,OFF-BI-4378,7.52,Medium
+Asia Pacific,FUR-TA-3413,248.91,High
+Asia Pacific,FUR-BO-4850,248.81,High
+Asia Pacific,TEC-CO-3598,248.59,Critical
+Asia Pacific,FUR-BO-4849,248.41,Medium
+Europe,OFF-AP-3576,247.99,High
+Asia Pacific,TEC-PH-3807,247.7,Medium
+LATAM,FUR-CH-5443,246.726,Critical
+LATAM,TEC-PH-5841,246.387,Medium
+Europe,TEC-MA-5547,246.17,High
+Europe,TEC-MA-5020,246.09,Critical
+USCA,TEC-AC-6341,6.44,Medium
+Africa,OFF-AP-4490,246.05,Critical
+Asia Pacific,TEC-CO-3596,246.05,High
+Europe,FUR-TA-5057,245.86,Medium
+Europe,FUR-CH-5380,245.83,High
+USCA,OFF-AR-3551,4.31,Medium
+Asia Pacific,TEC-PH-5355,245.57,High
+Africa,TEC-AC-3405,245.57,Low
+LATAM,FUR-TA-3359,245.067,High
+USCA,OFF-PA-6553,3.66,Critical
+Europe,TEC-PH-5269,244.67,Medium
+Asia Pacific,FUR-CH-5441,244.5,High
+Europe,FUR-TA-3348,244.3,High
+Africa,FUR-BO-3625,244.07,High
+Asia Pacific,FUR-TA-3765,244.03,High
+USCA,OFF-SU-2972,1.91,Medium
+Europe,FUR-CH-4558,243.85,Critical
+LATAM,OFF-AP-4966,243.793,High
+USCA,OFF-PA-6453,1.85,Medium
+Europe,TEC-CO-3596,243.57,Medium
+Asia Pacific,FUR-BO-3640,243.14,High
+Asia Pacific,FUR-BO-5787,243.11,High
+LATAM,TEC-CO-3609,243.059,Medium
+Africa,FUR-TA-3777,242.9,Medium
+USCA,OFF-SU-2971,1.74,Medium
+USCA,FUR-FU-6223,1.54,Medium
+Asia Pacific,TEC-PH-3147,242.57,Medium
+Asia Pacific,FUR-CH-4531,242.38,Medium
+Europe,TEC-MA-6140,242.18,Critical
+Asia Pacific,OFF-AP-4738,241.89,Medium
+USCA,OFF-PA-6508,1.52,High
+USCA,OFF-AR-3475,59.79,High
+LATAM,OFF-AP-4508,241.537,Medium
+Europe,TEC-PH-3785,241.34,Critical
+Africa,TEC-MA-4197,241.33,Critical
+USCA,TEC-AC-4870,17.4,Medium
+Asia Pacific,FUR-CH-4656,240.32,Medium
+Europe,OFF-AP-4743,240.17,Medium
+USCA,OFF-ST-6293,11.27,Medium
+LATAM,TEC-CO-4792,240.092,High
+USCA,OFF-PA-6443,7.84,Medium
+Asia Pacific,FUR-BO-4849,239.83,High
+Asia Pacific,FUR-CH-4530,239.71,Critical
+Europe,FUR-BO-3904,239.69,High
+Europe,TEC-PH-3805,239.69,High
+Asia Pacific,TEC-PH-5264,239.62,High
+LATAM,FUR-BO-5786,239.217,High
+Asia Pacific,TEC-PH-3806,239.04,Low
+Africa,OFF-AP-3578,238.95,Medium
+Asia Pacific,TEC-PH-3152,238.9,High
+Asia Pacific,OFF-AP-3875,238.76,High
+Asia Pacific,TEC-CO-6000,238.52,Medium
+USCA,OFF-AR-5929,5.26,Medium
+Asia Pacific,TEC-CO-5994,238.34,Medium
+Africa,TEC-MA-5503,238.23,High
+Europe,FUR-TA-3759,238.03,Medium
+Europe,FUR-BO-3903,237.78,Low
+USCA,OFF-BI-4373,4.77,Medium
+Asia Pacific,FUR-CH-4656,237.38,High
+Asia Pacific,TEC-MA-5548,237.28,Critical
+Asia Pacific,TEC-CO-5997,237.05,Medium
+Europe,FUR-BO-5951,236.79,High
+Europe,TEC-PH-5841,236.69,Critical
+USCA,FUR-FU-4329,4.69,Medium
+LATAM,TEC-CO-6009,236.564,Medium
+Europe,TEC-CO-3685,236.49,Critical
+Africa,FUR-CH-5776,236.26,Medium
+Europe,FUR-CH-5443,236.23,Medium
+Asia Pacific,OFF-AP-4508,236.16,Critical
+Europe,FUR-BO-3889,236.13,Medium
+Europe,OFF-AP-3574,236.06,High
+Asia Pacific,OFF-AP-3871,235.88,Medium
+USCA,FUR-CH-5790,4.4,High
+Europe,TEC-CO-3587,235.46,Critical
+Asia Pacific,TEC-PH-5844,235.28,High
+USCA,TEC-AC-3407,4.29,Medium
+LATAM,OFF-AP-4966,235.076,Medium
+Europe,FUR-BO-3902,234.96,Critical
+Europe,TEC-CO-4790,234.85,Medium
+Africa,FUR-CH-5776,234.85,Medium
+Europe,FUR-BO-3627,234.79,High
+Europe,TEC-PH-3806,234.73,Medium
+USCA,OFF-PA-6534,2.25,Medium
+Asia Pacific,FUR-TA-4713,234.67,Medium
+Europe,TEC-PH-3805,234.61,Low
+LATAM,TEC-PH-5268,234.28,Critical
+Asia Pacific,TEC-PH-5842,234.16,Medium
+Asia Pacific,TEC-PH-3805,234.15,High
+Asia Pacific,FUR-CH-4531,234.15,High
+Asia Pacific,TEC-CO-3598,234.13,High
+Asia Pacific,TEC-AC-5223,234.13,Medium
+Africa,TEC-MA-5008,234.11,Low
+LATAM,OFF-AP-3868,234.043,Medium
+Europe,TEC-MA-6150,233.74,High
+USCA,OFF-BI-4378,2.02,Medium
+USCA,OFF-FA-6129,1.56,Medium
+LATAM,FUR-TA-3777,232.836,High
+Europe,FUR-TA-4692,232.54,Medium
+Asia Pacific,TEC-PH-3806,232.49,Medium
+Asia Pacific,TEC-PH-3807,232.45,High
+LATAM,TEC-CO-3710,232.424,Critical
+Africa,FUR-BO-3639,232.24,Medium
+Asia Pacific,TEC-PH-5267,232.17,Critical
+LATAM,TEC-PH-3784,231.957,Medium
+LATAM,FUR-TA-3420,231.517,Critical
+Europe,TEC-MA-4197,231.35,High
+Asia Pacific,FUR-TA-3352,231.32,Medium
+Asia Pacific,TEC-PH-5268,231.16,Medium
+Asia Pacific,OFF-AP-4960,231.11,High
+USCA,OFF-AR-6632,1.34,Medium
+LATAM,TEC-PH-3807,230.47,Medium
+Europe,FUR-TA-3432,230.35,Critical
+Europe,TEC-CO-4593,230.04,Medium
+USCA,OFF-PA-6516,1.21,Medium
+LATAM,TEC-PH-5837,229.085,Critical
+USCA,OFF-BI-6634,1.15,Medium
+Asia Pacific,FUR-BO-5953,228.94,High
+Asia Pacific,FUR-TA-3766,228.89,Low
+Europe,FUR-BO-3627,228.78,High
+Africa,FUR-BO-5763,228.7,Low
+Asia Pacific,FUR-TA-3420,228.37,High
+Asia Pacific,FUR-CH-5442,228.16,Medium
+Europe,FUR-BO-5960,228.13,Medium
+Europe,TEC-MA-4195,227.85,Critical
+USCA,TEC-CO-3690,121.36,Medium
+Asia Pacific,FUR-TA-3431,227.67,Medium
+LATAM,TEC-CO-3602,227.629,High
+USCA,OFF-ST-6294,72.26,Medium
+Asia Pacific,FUR-TA-5062,227.19,High
+Asia Pacific,FUR-BO-3889,227.14,Medium
+Asia Pacific,TEC-PH-5842,226.81,Medium
+Asia Pacific,TEC-MA-5512,226.8,High
+Asia Pacific,TEC-MA-4210,226.73,Critical
+Africa,TEC-CO-3602,226.68,Critical
+LATAM,FUR-BO-4861,226.629,High
